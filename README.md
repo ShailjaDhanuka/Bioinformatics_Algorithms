@@ -1,35 +1,37 @@
-Bioinformatics Course – Phillip Compeau
+# Bioinformatics Course – Phillip Compeau
 
 This repository contains my coursework, implementations, and notes for the Bioinformatics course taught by Phillip Compeau.
 
+---
+
+##  Topics Covered
+
 The repo includes solutions to algorithmic problems in:
 
-DNA/RNA sequence analysis
+- **DNA/RNA sequence analysis**
+- **Genome assembly**
+- **Motif finding**
+- **Sequence alignment**
+  - Global alignment
+  - Local alignment
+  - Affine gap penalties
+- **Hidden Markov Models (HMMs)**
+- **Phylogenetic trees**
+- **Graph-based methods**
+  - De Bruijn graphs
+  - Eulerian paths
 
-Genome assembly
+---
 
-Motif finding
+## Tech Stack
 
-Sequence alignment (global, local, affine gap penalties)
+- Python  
+- NumPy  
+- Core data structures  
+- Dynamic programming  
 
-Hidden Markov Models
+---
 
-Phylogenetic trees
-
-Graph-based methods (De Bruijn graphs, Eulerian paths)
-
-All implementations are written with a focus on clarity, correctness, and computational efficiency.
-
-
-
-Tech Stack
-
-Python
-
-NumPy
-
-Basic data structures & dynamic programming
-
-Goal
+## Goal
 
 To build a strong algorithmic foundation in bioinformatics through hands-on implementation of classical computational biology problems.
