@@ -1,6 +1,7 @@
-# Bioinformatics Course – Phillip Compeau
+# Bioinformatics Algorithms 
+Taught by – Phillip Compeau
 
-This repository contains my coursework, implementations, and notes for the Bioinformatics course taught by Phillip Compeau.
+This repository contains my coursework, implementations, and notes for the Bioinformatics Algorithm course.
 
 ---
 
